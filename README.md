@@ -1,9 +1,13 @@
 # 🎯 QuizApp
 
 **Autor:** Maksym Krytskyi
+
 **Framework:** ASP.NET Core 8.0
+
 **Baza danych:** SQLite
+
 **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
+
 **Architektura:** MVC
 
 ## 📝 Opis
