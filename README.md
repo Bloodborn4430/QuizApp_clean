@@ -1,6 +1,6 @@
 # 🎯 QuizApp
 
-**Autor:** Maksym Krytskyi
+**Autor:** Maksym Krytskyi Nr albumu	142961
 
 **Framework:** ASP.NET Core 8.0
 
