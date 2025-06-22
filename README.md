@@ -167,17 +167,5 @@ Pełny opis modeli znajdziesz w pliku `/Models`.
 * Przeglądarka wspierająca HTTPS
 * (opcjonalnie) Visual Studio 2022+ lub VS Code
 
----
 
-## 📬 Kontakt
 
-Masz pytania, uwagi lub chcesz współtworzyć projekt?
-Napisz do mnie: **[maksym.krytskyi@example.com](mailto:maksym.krytskyi@example.com)**
-
----
-
-### ⭐️ Jeśli Ci się podoba, zostaw gwiazdkę repozytorium!
-
----
-
-Chcesz też dodać badge GitHub Actions, licencję MIT lub zrzuty ekranu? Daj znać — mogę to dorzucić.
